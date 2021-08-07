@@ -368,8 +368,16 @@
       "PayloadHost": "stats.bi.com.gt"
     },
     {
-      "PayloadName": "[A] GUATEMALA TIGO JDG",
-      "PayloadHost": "tigopay.com.gt"
+      "PayloadName": "[A] GUATEMALA TIGO 1",
+      "PayloadHost": "104.18.226.52"
+    },
+    {
+      "PayloadName": "[A] GUATEMALA TIGO 2",
+      "PayloadHost": "172.67.133.62"
+    },
+    {
+      "PayloadName": "[A] GUATEMALA TIGO 3",
+      "PayloadHost": "172.67.28.171"
     },
     {
       "PayloadName": "[A] GUATEMALA TIGO MUSICA 1",
@@ -378,14 +386,6 @@
     {
       "PayloadName": "[A] GUATEMALA TIGO MUSICA 2",
       "PayloadHost": "support.deezer.com"
-    },
-    {
-      "PayloadName": "[A] GUATEMALA TIGO YOSER GT 1",
-      "PayloadHost": "tigopay.com.gt:80"
-    },
-    {
-      "PayloadName": "[A] GUATEMALA TIGO YOSER GT 2",
-      "PayloadHost": "pressnews.biz"
     },
     {
       "PayloadHost": "ruditukangcepu.v2ray.dns001.cf",
@@ -489,7 +489,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "5.51",
-    "ChangeLogs": "Updated Server :\n+ India\n+ Singapore\n+ USA\n\nUpdated Bughost :\n- No\n\n! Use A with A, and B with B.\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "5.52",
+    "ChangeLogs": "Updated Server :\n+ 🇮🇳 India\n+ 🇸🇬 Singapore\n+ 🇺🇲 USA\n\nUpdated Bughost :\n- 🇬🇹 Tigo\n\n! Use A with A, and B with B.\nThank You for Your support to Free to Fly \u003c3"
   }
 }
