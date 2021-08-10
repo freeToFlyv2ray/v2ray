@@ -4,124 +4,64 @@
       "Tambahan": "766D6573733A2F2F65794A685A4751694F694A69615731695A577775636E5668626D646E64584A314C6D4E7662534973496D46705A434936496A49694C434A6F62334E30496A6F69596D6C36626D56304C6D7076626D6B794D69353061794973496D6C6B496A6F69597A646A4F4441334F4451744F575532596930304E474D314C5749304E4451744D446B344E54686A4E445A6A4E6A566D49697769626D5630496A6F6964334D694C434A775958526F496A6F694C335979636D4635496977696347397964434936496A67774969776963484D694F694A6254305A4754456C4F52563067535535455430354655306C42494449694C434A7A59336B694F694A68645852764969776963323570496A6F69496977696447787A496A6F694969776964486C775A53493649694973496E59694F694979496E303D"
     },
     {
-      "ServerName": "[A] INDIA GAME 1",
-      "ServerIP": "ind7open.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 2",
-      "ServerIP": "ind8open.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 3",
-      "ServerIP": "ind9open.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 4",
-      "ServerIP": "ind11open.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 5",
-      "ServerIP": "ind1.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 6",
-      "ServerIP": "indi2.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 7",
-      "ServerIP": "ind3.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 8",
-      "ServerIP": "ind4.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 9",
-      "ServerIP": "ind5.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 10",
-      "ServerIP": "ind6.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 11",
-      "ServerIP": "ind7open.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 12",
-      "ServerIP": "ind8open.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 13",
-      "ServerIP": "ind9open.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 14",
-      "ServerIP": "ind11open.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] INDIA GAME 15",
-      "ServerIP": "ind1.pete-dnsmaker.com"
-    },
-    {
       "ServerName": "[A] SINGAPORE 1",
-      "ServerIP": "indo1.masterpepeng.xyz"
+      "ServerIP": "game1.mostpopulardns.xyz"
     },
     {
       "ServerName": "[A] SINGAPORE 2",
-      "ServerIP": "indo2.masterpepeng.xyz"
+      "ServerIP": "game2.mostpopulardns.xyz"
     },
     {
       "ServerName": "[A] SINGAPORE 3",
-      "ServerIP": "indo3.masterpepeng.xyz"
+      "ServerIP": "game3.mostpopulardns.xyz"
     },
     {
       "ServerName": "[A] SINGAPORE 4",
-      "ServerIP": "indo4.masterpepeng.xyz"
+      "ServerIP": "game4.mostpopulardns.xyz"
     },
     {
       "ServerName": "[A] SINGAPORE 5",
-      "ServerIP": "indo5.masterpepeng.xyz"
+      "ServerIP": "game5.mostpopulardns.xyz"
     },
     {
       "ServerName": "[A] SINGAPORE 6",
-      "ServerIP": "gtmnoload1.pepengdaguob.club"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 7",
-      "ServerIP": "gtmnoload2.pepengdaguob.club"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 8",
-      "ServerIP": "gtmnoload3.pepengdaguob.club"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 9",
-      "ServerIP": "gtmnoload4.pepengdaguob.club"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 10",
       "ServerIP": "indo6.masterpepeng.xyz"
     },
     {
-      "ServerName": "[A] SINGAPORE 11",
+      "ServerName": "[A] SINGAPORE 7",
       "ServerIP": "maytika7.dnsimponly.xyz"
     },
     {
-      "ServerName": "[A] SINGAPORE 12",
+      "ServerName": "[A] SINGAPORE 8",
       "ServerIP": "mantika8.dnsimponly.xyz"
     },
     {
-      "ServerName": "[A] SINGAPORE 13",
+      "ServerName": "[A] SINGAPORE 9",
       "ServerIP": "mantika9.dnsimponly.xyz"
     },
     {
-      "ServerName": "[A] SINGAPORE 14",
+      "ServerName": "[A] SINGAPORE 10",
       "ServerIP": "mantika10.dnsimponly.xyz"
     },
     {
+      "ServerName": "[A] SINGAPORE 11",
+      "ServerIP": "game1.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 12",
+      "ServerIP": "game2.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 13",
+      "ServerIP": "game3.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 14",
+      "ServerIP": "game4.mostpopulardns.xyz"
+    },
+    {
       "ServerName": "[A] SINGAPORE 15",
-      "ServerIP": "mantika10.dnsimponly.xyz"
+      "ServerIP": "game5.mostpopulardns.xyz"
     },
     {
       "ServerName": "[A] SINGAPORE GAME 1",
@@ -185,63 +125,63 @@
     },
     {
       "ServerName": "[A] USA 1",
-      "ServerIP": "wor1.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] USA 2",
-      "ServerIP": "wor2.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] USA 3",
-      "ServerIP": "wor3.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] USA 4",
-      "ServerIP": "wor4.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] USA 5",
-      "ServerIP": "wor5.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] USA 6",
-      "ServerIP": "wor6.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] USA 7",
       "ServerIP": "usa1.pete-dnsmaker.com"
     },
     {
-      "ServerName": "[A] USA 8",
+      "ServerName": "[A] USA 2",
       "ServerIP": "usa2.pete-dnsmaker.com"
     },
     {
-      "ServerName": "[A] USA 9",
+      "ServerName": "[A] USA 3",
       "ServerIP": "usa3.pete-dnsmaker.com"
     },
     {
-      "ServerName": "[A] USA 10",
+      "ServerName": "[A] USA 4",
       "ServerIP": "usa4.pete-dnsmaker.com"
     },
     {
-      "ServerName": "[A] USA 11",
+      "ServerName": "[A] USA 5",
       "ServerIP": "usa5.pete-dnsmaker.com"
     },
     {
-      "ServerName": "[A] USA 12",
+      "ServerName": "[A] USA 6",
       "ServerIP": "usa6.pete-dnsmaker.com"
     },
     {
-      "ServerName": "[A] USA 13",
+      "ServerName": "[A] USA 7",
       "ServerIP": "usa7.pete-dnsmaker.com"
     },
     {
-      "ServerName": "[A] USA 14",
+      "ServerName": "[A] USA 8",
       "ServerIP": "usa8.pete-dnsmaker.com"
     },
     {
-      "ServerName": "[A] USA 15",
+      "ServerName": "[A] USA 9",
       "ServerIP": "usa9.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 10",
+      "ServerIP": "usa10.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 11",
+      "ServerIP": "usa1.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 12",
+      "ServerIP": "usa2.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 13",
+      "ServerIP": "usa3.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 14",
+      "ServerIP": "usa4.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 15",
+      "ServerIP": "usa5.pete-dnsmaker.com"
     },
     {
       "ServerName": "[B] AXIS TIKTOK",
@@ -456,28 +396,64 @@
       "PayloadHost": "104.18.12.65"
     },
     {
-      "PayloadName": "[B] USA 1",
-      "PayloadHost": "wor1.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] USA 2",
-      "PayloadHost": "wor2.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] INDIA GAME 1",
-      "PayloadHost": "ind11open.dnsimponly.xyz"
-    },
-    {
-      "PayloadName": "[B] INDIA GAME 2",
-      "PayloadHost": "ind1.pete-dnsmaker.com"
-    },
-    {
       "PayloadName": "[B] SINGAPORE 1",
-      "PayloadHost": "indo1.masterpepeng.xyz"
+      "PayloadHost": "game1.mostpopulardns.xyz"
     },
     {
       "PayloadName": "[B] SINGAPORE 2",
-      "PayloadHost": "indo2.masterpepeng.xyz"
+      "PayloadHost": "game2.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 3",
+      "PayloadHost": "game3.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 4",
+      "PayloadHost": "game4.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 5",
+      "PayloadHost": "game5.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 6",
+      "PayloadHost": "indo6.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 7",
+      "PayloadHost": "maytika7.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 8",
+      "PayloadHost": "mantika8.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 9",
+      "PayloadHost": "mantika9.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 10",
+      "PayloadHost": "mantika10.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 11",
+      "PayloadHost": "game1.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 12",
+      "PayloadHost": "game2.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 13",
+      "PayloadHost": "game3.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 14",
+      "PayloadHost": "game4.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 15",
+      "PayloadHost": "game5.mostpopulardns.xyz"
     },
     {
       "PayloadName": "[B] SINGAPORE GAME 1",
@@ -486,10 +462,122 @@
     {
       "PayloadName": "[B] SINGAPORE GAME 2",
       "PayloadHost": "gemeng2.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 3",
+      "PayloadHost": "gemeng3.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 4",
+      "PayloadHost": "gemeng4.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 5",
+      "PayloadHost": "gemeng5.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 6",
+      "PayloadHost": "gaming66.pepeng.club"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 7",
+      "PayloadHost": "gaming77.pepeng.club"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 8",
+      "PayloadHost": "gaming888.pepeng.club"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 9",
+      "PayloadHost": "gaming99.pepeng.club"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 10",
+      "PayloadHost": "gaming100.pepeng.club"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 11",
+      "PayloadHost": "sggaming1.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 12",
+      "PayloadHost": "sggaming2.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 13",
+      "PayloadHost": "sggaming3.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 14",
+      "PayloadHost": "sggaming4.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 15",
+      "PayloadHost": "sggaming5.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 1",
+      "PayloadHost": "usa1.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 2",
+      "PayloadHost": "usa2.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 3",
+      "PayloadHost": "usa3.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 4",
+      "PayloadHost": "usa4.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 5",
+      "PayloadHost": "usa5.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 6",
+      "PayloadHost": "usa6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 7",
+      "PayloadHost": "usa7.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 8",
+      "PayloadHost": "usa8.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 9",
+      "PayloadHost": "usa9.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 10",
+      "PayloadHost": "usa10.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 11",
+      "PayloadHost": "usa1.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 12",
+      "PayloadHost": "usa2.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 13",
+      "PayloadHost": "usa3.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 14",
+      "PayloadHost": "usa4.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 15",
+      "PayloadHost": "usa5.pete-dnsmaker.com"
     }
   ],
   "Version": {
-    "VersionCode": "5.54",
-    "ChangeLogs": "Pembaruan beberapa server.\n\nSusah konek? pastikan kondisi jaringan baik.\n\n! Use A with A, and B with B.\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "5.60",
+    "ChangeLogs": "Pembaruan semua server.\nDi versi ini, semua server telah diperbaiki.\n\nPenambahan Server untuk mode B\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
