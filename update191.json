@@ -372,6 +372,10 @@
       "PayloadHost": "104.18.28.7"
     },
     {
+      "PayloadName": "[A] TELKOMSEL OPOK BARU",
+      "PayloadHost": "104.16.86.90"
+    },
+    {
       "PayloadName": "[A] TELKOMSEL ILMUPEDIA 1",
       "PayloadHost": "104.18.3.2"
     },
@@ -577,7 +581,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "5.60",
-    "ChangeLogs": "Pembaruan semua server.\nDi versi ini, semua server telah diperbaiki.\n\nPenambahan Server untuk mode B\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "5.61",
+    "ChangeLogs": "Updated Server :\nNo\n\nUpdated Bughost :\n+ 🇮🇩 Telkomsel Opok \n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
