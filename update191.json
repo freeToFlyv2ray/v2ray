@@ -372,8 +372,12 @@
       "PayloadHost": "104.18.28.7"
     },
     {
-      "PayloadName": "[A] TELKOMSEL OPOK BARU",
+      "PayloadName": "[A] TELKOMSEL OPOK 1",
       "PayloadHost": "104.16.86.90"
+    },
+    {
+      "PayloadName": "[A] TELKOMSEL OPOK 2 •",
+      "PayloadHost": "104.16.86.20"
     },
     {
       "PayloadName": "[A] TELKOMSEL ILMUPEDIA 1",
@@ -581,7 +585,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "5.61",
-    "ChangeLogs": "Updated Server :\nNo\n\nUpdated Bughost :\n+ 🇮🇩 Telkomsel Opok \n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "5.62",
+    "ChangeLogs": "Updated Server :\nNo\n\nUpdated Bughost :\n+ 🇮🇩 Telkomsel Opok (Lagi)\nByU? Coba aja dulu..\nKalo pake APN rumah ngga konek, coba pake APN bawaan.\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
