@@ -292,8 +292,8 @@
       "PayloadHost": "Tigopay.com.gt"
     },
     {
-      "PayloadName": "[A] GUATEMALA CLARO",
-      "PayloadHost": "qeep.net"
+      "PayloadName": "[A] GUATEMALA CLARO (NUEVO)",
+      "PayloadHost": "mingob.gob.gt"
     },
     {
       "PayloadName": "[A] GUATEMALA MOVISTAR",
@@ -397,7 +397,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "5.63",
-    "ChangeLogs": "Updated Server :\nAll Server\n\nUpdated Bughost :\n+ 🇬🇹 Guatemala 1-4\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "5.64",
+    "ChangeLogs": "Updated Server :\nAll Server\n\nUpdated Bughost :\n+ 🇬🇹 Claro\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
