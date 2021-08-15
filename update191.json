@@ -360,6 +360,14 @@
       "PayloadHost": "istyle.id"
     },
     {
+      "PayloadName": "[A] INDOSAT FREEDOM EDUKASI 30GB 1",
+      "PayloadHost": "104.17.2.81"
+    },
+    {
+      "PayloadName": "[A] INDOSAT FREEDOM EDUKASI 30GB 2",
+      "PayloadHost": "104.17.3.81"
+    },
+    {
       "PayloadName": "[A] INDOSAT OPOK",
       "PayloadHost": "covid19.go.id"
     },
@@ -601,7 +609,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "5.65",
-    "ChangeLogs": "Updated Server :\n+ Server [B]\n\nUpdated Bughost :\n+ Semua [B]\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "5.66",
+    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 Indosat Freedom Edukasi\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
