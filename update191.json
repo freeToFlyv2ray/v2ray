@@ -182,6 +182,30 @@
     {
       "ServerName": "[A] USA 20",
       "ServerIP": "usa10.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[B] AXIS TIKTOK",
+      "ServerIP": "104.18.20.94"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL GAMES MAX",
+      "ServerIP": "104.19.143.108"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL KETENGAN YOUTUBE",
+      "ServerIP": "youtube.com"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL UNLIMITED APPS",
+      "ServerIP": "login.spotify.com"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL UNLIMITED MAX",
+      "ServerIP": "v.whatsapp.net"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL UNLIMITED WHATSAPP",
+      "ServerIP": "v.whatsapp.net"
     }
   ],
   "Servers2": [
@@ -394,10 +418,190 @@
     {
       "PayloadName": "[A] XL OPOK",
       "PayloadHost": "104.18.12.65"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 1",
+      "PayloadHost": "indo6.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 2",
+      "PayloadHost": "maytika7.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 3",
+      "PayloadHost": "mantika8.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 4",
+      "PayloadHost": "mantika9.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 5",
+      "PayloadHost": "mantika10.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 6",
+      "PayloadHost": "indo6.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 7",
+      "PayloadHost": "maytika7.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 8",
+      "PayloadHost": "mantika8.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 9",
+      "PayloadHost": "mantika9.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 10",
+      "PayloadHost": "mantika10.dnsimponly.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 1",
+      "PayloadHost": "gemeng1.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 2",
+      "PayloadHost": "gemeng2.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 3",
+      "PayloadHost": "gemeng3.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 4",
+      "PayloadHost": "gemeng4.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 5",
+      "PayloadHost": "gemeng5.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 6",
+      "PayloadHost": "indoo1.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 7",
+      "PayloadHost": "indoo2.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 8",
+      "PayloadHost": "indoo3.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 9",
+      "PayloadHost": "indoo4.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 10",
+      "PayloadHost": "indoo5.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 11",
+      "PayloadHost": "inter1.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 12",
+      "PayloadHost": "inter2.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 13",
+      "PayloadHost": "inter3.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 14",
+      "PayloadHost": "inter4.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 15",
+      "PayloadHost": "inter5.masterpepeng.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 1",
+      "PayloadHost": "amerika1.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 2",
+      "PayloadHost": "amerika2.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 3",
+      "PayloadHost": "amerika3.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 4",
+      "PayloadHost": "amerika4.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 5",
+      "PayloadHost": "amerika5.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 6",
+      "PayloadHost": "usa6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 7",
+      "PayloadHost": "usa7.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 8",
+      "PayloadHost": "usa8.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 9",
+      "PayloadHost": "usa9.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 10",
+      "PayloadHost": "usa10.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 11",
+      "PayloadHost": "amerika1.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 12",
+      "PayloadHost": "amerika2.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 13",
+      "PayloadHost": "amerika3.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 14",
+      "PayloadHost": "amerika4.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 15",
+      "PayloadHost": "amerika5.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 16",
+      "PayloadHost": "usa6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 17",
+      "PayloadHost": "usa7.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 18",
+      "PayloadHost": "usa8.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 19",
+      "PayloadHost": "usa9.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 20",
+      "PayloadHost": "usa10.pete-dnsmaker.com"
     }
   ],
   "Version": {
-    "VersionCode": "5.64",
-    "ChangeLogs": "Updated Server :\nAll Server\n\nUpdated Bughost :\n+ 🇬🇹 Claro\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "5.65",
+    "ChangeLogs": "Updated Server :\n+ Server [B]\n\nUpdated Bughost :\n+ Semua [B]\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
