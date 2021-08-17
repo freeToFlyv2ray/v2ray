@@ -196,6 +196,14 @@
       "ServerIP": "youtube.com"
     },
     {
+      "ServerName": "[B] TELKOMSEL MAXSTREAM 1",
+      "ServerIP": "connect.hbogo.eu"
+    },
+	{
+      "ServerName": "[B] TELKOMSEL MAXSTREAM 2",
+      "ServerIP": "www.hbogo.eu"
+    },
+    {
       "ServerName": "[B] TELKOMSEL UNLIMITED APPS",
       "ServerIP": "login.spotify.com"
     },
@@ -609,7 +617,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "5.66",
-    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 Indosat Freedom Edukasi\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "5.67",
+    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 Telkomsel Maxstream (Test)\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
