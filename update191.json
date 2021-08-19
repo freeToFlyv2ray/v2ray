@@ -1,7 +1,7 @@
 {
   "Servers": [
     {
-      "Tambahan": "766D6573733A2F2F65794A685A4751694F694A69615731695A577775636E5668626D646E64584A314C6D4E7662534973496D46705A434936496A49694C434A6F62334E30496A6F69596D6C36626D56304C6D7076626D6B794D69353061794973496D6C6B496A6F69597A646A4F4441334F4451744F575532596930304E474D314C5749304E4451744D446B344E54686A4E445A6A4E6A566D49697769626D5630496A6F6964334D694C434A775958526F496A6F694C335979636D4635496977696347397964434936496A67774969776963484D694F694A6254305A4754456C4F52563067535535455430354655306C42494449694C434A7A59336B694F694A68645852764969776963323570496A6F69496977696447787A496A6F694969776964486C775A53493649694973496E59694F694979496E303D"
+      "Tambahan": "766D6573733A2F2F65794A685A4751694F694A69615731695A577775636E5668626D646E64584A314C6D4E7662534973496D46705A434936496A49694C434A6F62334E30496A6F69615751744D4467744D4451744D6A4975646A4974636D46354C6D316C49697769615751694F694A6B4D4445344F5441305969316A4F4445784C5451785A6A51744F545132597930774F544E694F575A6D5954566C4D5749694C434A755A5851694F694A3363794973496E4268644767694F694A6F64485277637A6F764C33517562575576546B64465830644255314E54496977696347397964434936496A67304E444D694C434A7763794936496C745552564E555853424254456C4351554A42494445694C434A3062484D694F694A3062484D694C434A306558426C496A6F69626D39755A534973496E59694F694979496E303D"
     },
     {
       "ServerName": "[A] SINGAPORE 1",
@@ -21,26 +21,6 @@
     },
     {
       "ServerName": "[A] SINGAPORE 5",
-      "ServerIP": "mantika10.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 6",
-      "ServerIP": "indo6.masterpepeng.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 7",
-      "ServerIP": "maytika7.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 8",
-      "ServerIP": "mantika8.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 9",
-      "ServerIP": "mantika9.dnsimponly.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 10",
       "ServerIP": "mantika10.dnsimponly.xyz"
     },
     {
@@ -144,46 +124,6 @@
       "ServerIP": "usa10.pete-dnsmaker.com"
     },
     {
-      "ServerName": "[A] USA 11",
-      "ServerIP": "amerika1.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] USA 12",
-      "ServerIP": "amerika2.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] USA 13",
-      "ServerIP": "amerika3.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] USA 14",
-      "ServerIP": "amerika4.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] USA 15",
-      "ServerIP": "amerika5.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] USA 16",
-      "ServerIP": "usa6.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] USA 17",
-      "ServerIP": "usa7.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] USA 18",
-      "ServerIP": "usa8.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] USA 19",
-      "ServerIP": "usa9.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] USA 20",
-      "ServerIP": "usa10.pete-dnsmaker.com"
-    },
-    {
       "ServerName": "[B] AXIS TIKTOK",
       "ServerIP": "104.18.20.94"
     },
@@ -199,7 +139,7 @@
       "ServerName": "[B] TELKOMSEL MAXSTREAM 1",
       "ServerIP": "connect.hbogo.eu"
     },
-	{
+    {
       "ServerName": "[B] TELKOMSEL MAXSTREAM 2",
       "ServerIP": "www.hbogo.eu"
     },
@@ -456,26 +396,6 @@
       "PayloadHost": "mantika10.dnsimponly.xyz"
     },
     {
-      "PayloadName": "[B] SINGAPORE 6",
-      "PayloadHost": "indo6.masterpepeng.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 7",
-      "PayloadHost": "maytika7.dnsimponly.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 8",
-      "PayloadHost": "mantika8.dnsimponly.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 9",
-      "PayloadHost": "mantika9.dnsimponly.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 10",
-      "PayloadHost": "mantika10.dnsimponly.xyz"
-    },
-    {
       "PayloadName": "[B] SINGAPORE GAME 1",
       "PayloadHost": "gemeng1.g-blogspot.com"
     },
@@ -574,50 +494,10 @@
     {
       "PayloadName": "[B] USA 10",
       "PayloadHost": "usa10.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] USA 11",
-      "PayloadHost": "amerika1.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] USA 12",
-      "PayloadHost": "amerika2.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] USA 13",
-      "PayloadHost": "amerika3.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] USA 14",
-      "PayloadHost": "amerika4.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] USA 15",
-      "PayloadHost": "amerika5.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] USA 16",
-      "PayloadHost": "usa6.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] USA 17",
-      "PayloadHost": "usa7.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] USA 18",
-      "PayloadHost": "usa8.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] USA 19",
-      "PayloadHost": "usa9.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] USA 20",
-      "PayloadHost": "usa10.pete-dnsmaker.com"
     }
   ],
   "Version": {
-    "VersionCode": "5.67",
-    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 Telkomsel Maxstream (Test)\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "5.68",
+    "ChangeLogs": "Updated Server :\n+ ALL DEAD SERVER REMOVED\n+ Alibaba\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
